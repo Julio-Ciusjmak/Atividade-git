@@ -1,1 +1,2 @@
-Github 
+Github
+Adicionando comando git
